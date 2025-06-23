@@ -5,7 +5,7 @@
 ## 🚀 Project Structure
 
 - 📌 **WBS**: [View](https://github.com/PMCreator1/FitFi-Product-Launch-/blob/main/WBS/FitFI%20App%20Launch%20WBS.png)
-- 🧠 **Backlog & Stories**: `docs/backlog.md`
+- 🧠 **Backlog & Stories**: [View](https://github.com/PMCreator1/FitFi-Product-Launch-/blob/main/Product%20Backlog/Product%20Backlog%2021b0a36ead33814f9428d11ec3343262.md)
 - 🗓️ **Sprint Planning**: `docs/sprint-plan.md`
 - 📊 **Burndown Chart**: `sheets/burndown-chart.xlsx`
 - 🧾 **Daily Standups**: `docs/sprint-standups.md`
