@@ -4,7 +4,7 @@
 🧩 **Tools Used**: Jira, Notion, Markdown, Google Sheets, Google Diagram  
 ## 🚀 Project Structure
 
-- 📌 **WBS**: `docs/wbs.md`
+- 📌 **WBS**: [View](https://github.com/PMCreator1/FitFi-Product-Launch-/blob/main/WBS/FitFI%20App%20Launch%20WBS.png)
 - 🧠 **Backlog & Stories**: `docs/backlog.md`
 - 🗓️ **Sprint Planning**: `docs/sprint-plan.md`
 - 📊 **Burndown Chart**: `sheets/burndown-chart.xlsx`
