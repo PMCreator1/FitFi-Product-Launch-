@@ -6,11 +6,10 @@
 
 - 📌 **WBS**: [View](https://github.com/PMCreator1/FitFi-Product-Launch-/blob/main/WBS/FitFI%20App%20Launch%20WBS.png)
 - 🧠 **Backlog & Stories**: [View](https://github.com/PMCreator1/FitFi-Product-Launch-/blob/main/Product%20Backlog/Product%20Backlog%2021b0a36ead33814f9428d11ec3343262.md)
-- 🗓️ **Sprint Planning**: `docs/sprint-plan.md`
+
 - 📊 **Burndown Chart**: [View](https://github.com/PMCreator1/FitFi-Product-Launch-/blob/main/Burndown%20Chart/Burndown-Chart.xlsx)
 - 🧾 **Daily Standups**: [View](https://github.com/PMCreator1/FitFi-Product-Launch-/blob/main/Daily%20StandUps/%F0%9F%93%9D%20Sprint%201%20%E2%80%93%20Daily%20Standups%20Log%2021b0a36ead3380e5a0e2d9238425db5a.md)
-- 🧩 **Stakeholder Map**: `docs/stakeholder-map.md`
-- 📸 **Jira Board Screenshots**: `assets/screenshots/`
+- 📸 **Jira Board Screenshots**: [View](https://github.com/PMCreator1/FitFi-Product-Launch-/tree/main/Jira%20Board%20Snapshot)
 
 ## ✅ Sprint 1 Summary
 
@@ -23,7 +22,8 @@
 - Practiced backlog grooming, estimation, prioritization
 - Documented standups, reviews, and retrospective
 
-## 🔚 Retrospective
+## 🔚 Retrospective 
+Take a quick [View](https://github.com/PMCreator1/FitFi-Product-Launch-/blob/main/Retrospective/Sprint%201%20Retrospective%2021b0a36ead3380d6a872e49f40200e65.md)
 
 What went well:
 - Learned how to apply Scrum ceremonies hands-on
